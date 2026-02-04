@@ -13,7 +13,7 @@
   
 - [Msc script](https://github.com/vicenteicc2008/woa-starqlte/releases/download/1.0-rc1-msc/msc-s9.sh)
   
-- [TWRP](https://github.com/vicenteicc2008/woa-starqlte/releases/download/1.0-rc1/twrp-s9.tar) (should already be installed)
+- [TWRP](https://github.com/vicenteicc2008/woa-starqlte/releases/download/1.0-rc1/twrp-starqltechn.tar) (should already be installed)
 
 #### Boot to TWRP
 > press Vol+ Key, Bixby Key and Power at the same time
