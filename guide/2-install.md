@@ -15,7 +15,7 @@
 
 - [Gdisk](https://github.com/vicenteicc2008/woa-starqlte/releases/download/1.0-rc1-msc/gdisk)
 
-- [TWRP](https://github.com/vicenteicc2008/woa-starqlte/releases/download/1.0-rc1/twrp-s9.tar) (should already be installed)
+- [TWRP](https://github.com/vicenteicc2008/woa-starqlte/releases/download/1.0-rc1/twrp-starqltechn.tar) (should already be installed)
 
 #### Boot to TWRP
 > Disable MTP in TWRP
