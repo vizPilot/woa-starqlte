@@ -11,7 +11,7 @@ The project is in development (Alpha). Expect some updates in the future.
 - [ ] Audio ```S9/S9+/Note9 uses MAX98512 amplifier and that depends on the i2c-gpio (writing is needed for both)```
 - [ ] Battery status ```S9 Uses custom PMIC (MAX77705) so writing fuelgauge driver is needed```
 - [x] Buttons 
-- [ ] Bluetooth
+- [ ] Bluetooth ```same as Wi-Fi```
 - [ ] Brightness 
 - [ ] Camera
 - [ ] Cellular
@@ -22,7 +22,7 @@ The project is in development (Alpha). Expect some updates in the future.
 - [x] UFS
 - [x] SD Card ```removing SD Card is not tested```
 - [x] USB ```Only with external power```
-- [ ] Wi-Fi ```S9 uses Broadcom (bcm4361) for WLAN and Bluetooth```
+- [ ] Wi-Fi ```S9 uses Broadcom (bcm4361) for WLAN and Bluetooth so writing is needed```
 
 #### Sensors
 - [ ] Accelerometer
