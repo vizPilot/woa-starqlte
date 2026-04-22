@@ -176,7 +176,7 @@ exit
 ```
 
 ### Flashing UEFI
-Flash UEFI on the modified recovery
+Flash UEFI image on the modified recovery
 
 ### Reboot to Windows 11
 > To set up your account in Windows 11
