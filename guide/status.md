@@ -4,7 +4,7 @@
 
 ## Project Status
 
-The project is in development (Alpha). Expect some updates in the future.
+The project is still in development (Alpha). Expect some updates in the future.
 
 #### Features
 
