@@ -9,7 +9,7 @@
 
 - [UEFI image](https://github.com/vicenteicc2008/woa-starqlte/releases/download/1.0-uefi/boot-starqlte.img)
   
-- [Drivers](https://github.com/vizPilot/woa-starqlte/releases/download/1.0-rc1-drivers/Drivers-S9.zip)
+- [Drivers](https://github.com/vizPilot/woa-starqlte/releases/download/1.0-rc1-drivers/Drivers.zip)
   
 - [Msc script](https://github.com/vicenteicc2008/woa-starqlte/releases/download/1.0-rc1-msc/msc-s9.sh)
   
