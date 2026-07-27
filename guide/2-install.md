@@ -7,7 +7,7 @@
 ### Prerequisites
 - [Windows on ARM image](https://worproject.com/esd)
   
-- [Drivers](https://github.com/vizPilot/woa-starqlte/releases/download/1.0-rc1-drivers/Drivers-S9.zip)
+- [Drivers](https://github.com/vizPilot/woa-starqlte/releases/download/1.0-rc1-drivers/Drivers.zip)
 
 - [UEFI Image](https://github.com/vicenteicc2008/woa-starqlte/releases/tag/1.0-uefi)
   
